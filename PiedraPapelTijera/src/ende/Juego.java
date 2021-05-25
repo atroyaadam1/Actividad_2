@@ -1,6 +1,7 @@
 package ende;
 
 /**
+ * @author Anthonny Troya
  * Simula el juego de Piedra, Papel o tijera
  */
 
